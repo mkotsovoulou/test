@@ -1,1 +1,2 @@
-#I will create a pytho program
+# I will create a python program
+print("hello")
